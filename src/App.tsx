@@ -3,8 +3,8 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <h3>React Typescript Course</h3>
+    <div className="app">
+      <h3>React Typescript Starter Template</h3>
     </div>
   );
 }
